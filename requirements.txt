@@ -1,0 +1,9 @@
+gradio
+torch
+torchvision
+transformers
+Pillow
+pytest
+requests
+timm
+numpy<2
