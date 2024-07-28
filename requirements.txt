@@ -8,4 +8,4 @@ requests
 timm
 numpy<2
 python-dotenv
-pytorch
+
