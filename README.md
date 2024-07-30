@@ -42,8 +42,6 @@ The Nutrient and Calorie Estimator is an AI-powered application designed to help
 4. **Run the application**
    ```bash
    python src/app.py
-
-5. **Navigate to the link**
    
 ## Contributors
 - **Farzin Shifat**
