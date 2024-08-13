@@ -1,7 +1,9 @@
 # Nutrient and Calorie Estimator
 
-## Overview
 The Nutrient and Calorie Estimator is an AI-powered application designed to help users identify and analyze the nutritional content of food items from images. By utilizing state-of-the-art object detection models and integrating with the USDA's food database, this tool provides detailed information about the calories, proteins, carbohydrates, and fats present in the detected food items.
+
+## Demo
+![1722289225999](https://github.com/user-attachments/assets/490e8bb4-72e9-4d61-ae9f-3b7a4c126bad)
 
 ## Features
 - **Food Detection**: Uses the `facebook/detr-resnet-50` object detection model to identify various food items in an uploaded image.
