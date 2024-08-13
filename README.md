@@ -35,11 +35,11 @@ The Nutrient and Calorie Estimator is an AI-powered application designed to help
 
 2. **Navigate to the project directory**
    ```bash
-   git clone https://github.com/Farzin312/nutrient-calorie-estimator.git
-   
+   cd Nutrient-Calorie-Estimator
+      
 3. **Install the requirements.txt**
    ```bash
-   cd nutrient-calorie-estimator
+   npm install
    
 4. **Run the application**
    ```bash
